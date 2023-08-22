@@ -1,7 +1,7 @@
-#Discord-Bot
+# Discord-Bot
 Discord bot I made for schools self-learning project.
 
-#How to use?
+# How to use?
 
 `npm install` - install all required dependancies
 
